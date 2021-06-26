@@ -1,0 +1,107 @@
+
+.chat_subject{
+    background-color: rgb(125, 172, 31);
+}
+
+.chat_history{
+    background-color: #F3F3F3;
+    height: 720px;
+    margin-top : 2%;
+    padding:3%;
+    padding-bottom: 5px;
+    overflow-y:scroll;
+}
+
+
+ul{
+    list-style-type: none;
+}
+.chat_content{
+    margin-top : 1%;
+    margin-bottom: 1%;
+    padding:0;
+}
+
+.YOUTH{
+    width: 100%;
+    margin-bottom: 1%;
+    
+}
+
+.YOUTH_profil{
+    width:30px; 
+    float:left;
+}
+
+.YOUTH p{
+    display:block;
+    background:white;
+    padding:8px;
+    border-radius: 5px;
+
+}
+
+
+.YOUTH_text{
+    margin-left : 2%;
+    float : left;
+    max-width : 70%
+}
+
+
+.PHILOSOPHER{
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+.PHILOSOPHER_profil{
+    width:30px; 
+    float:right;
+}
+
+.PHILOSOPHER p{
+    display:block;
+    background: #98EA70;
+    padding:10px;
+    border-radius: 5px;
+
+}
+
+.PHILOSOPHER_text{
+    margin-right : 2%;
+    float : right;
+    max-width : 70%
+}
+
+
+
+.chat_entry{
+    border-top:thick solid  #e2dfdf;
+}
+
+.chat_entry span{
+    color:#817e7e;;
+}
+
+.chat_textarea{
+    width: 77%;
+    max-height :100px;
+    bottom: 0;
+    float:left;
+    padding:3px;
+}
+
+
+.chat_submit{
+    width:22%;
+    float:right;
+    background: rgb(33, 175, 97);
+    border:0;
+    
+}
+
+
+
+
+
+
